@@ -1,0 +1,22 @@
+.idea
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+deployments
+
+#Hardhat files
+cache
+artifacts
+
+#dependency compiler
+contracts/hardhat-dependency-compiler
+
+#IDE
+.DS_Store
+.vscode
+
+gas.json
