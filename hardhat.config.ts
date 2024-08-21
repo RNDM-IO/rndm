@@ -82,7 +82,7 @@ const config: HardhatUserConfig = {
       live: false,
     },
     m1: {
-      url: "https://mevm.testnet.imola.movementlabs.xyz",
+      url: "https://mevm.devnet.imola.movementlabs.xyz",
       accounts: [PK_OWNER],
       chainId: 30732,
     },
